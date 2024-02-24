@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Fabio
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on can't say
+- 👀 I’m interested in everything IT
+- 🌱 I’m always learning
+- 💞️ I’m always lookinh to collaborate
 - 📫 How to reach me
-  - 🏠 [iam.f4b.io](https://iam.f4b.io)  
-  
-<a href="https://app.daily.dev/f4bio"><img src="https://api.daily.dev/devcards/906d0db494794912ac6c31a8acbfb4b5.png?r=jdw" width="400" alt="Fabio's Dev Card"/></a>
+  - 🏠 [iam.f4b.io](https://iam.f4b.io)
